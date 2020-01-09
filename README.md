@@ -1,2 +1,0 @@
-# javaBootcamp
-Created with CodeSandbox
